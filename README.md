@@ -4,6 +4,8 @@
 
 # 基本情報
 
+| key | value |
+| --- | --- |
 | 名前 | 木村一貴 |
 | 生息地 | 神奈川県 |
 | Twitter | @k_kazukiiiiii |
