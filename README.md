@@ -9,6 +9,7 @@
 | 名前 | 木村一貴 |
 | 生息地 | 神奈川県 |
 | Twitter | [@k_kazukiiiiii](https://twitter.com/k_kazukiiiiii) |
+| Qiita | [@k_kazukiiiiii](https://qiita.com/k_kazukiiiiii) |
 
 # スキルセット
 
