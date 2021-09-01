@@ -4,7 +4,48 @@
 
 # スキルセット
 
+### 言語
 
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- PHP
+- Ruby
+
+### フレームワーク・ライブラリ等
+
+- jQuery
+- React
+- Redux
+- Redux Toolkit
+- Lit Element
+- Storybook
+- styled-components
+- emotion
+- tailwindcss
+- Lodash
+- rfdc
+- date-fns
+- Jest
+- React Testing Library
+
+### RDB | NoSQL
+
+- MySQL
+- PostgreSQL
+
+### SaaS | PaaS
+
+- GitHub
+- GitHub Actions
+
+### その他
+
+- nginx
+- Apache
+- AWS
+- GCP
 
 # 主な業務経歴
 
@@ -44,7 +85,8 @@ TODO
 既存のサービスが「Atomic Design」を用いてコンポーネント設計を行っていたのだが  
 「Atomic Design」の原則に全く従っていなかったので、自分が開発リーダーとなってコンポーネントの整備を行った。  
 コンポーネントの分離作業を行うことで、既存のコンポーネントの責務の分離に大きく貢献。  
-実際に自分で新規で作成したコンポーネントは自分のリポジトリでカスタマイズして実装して残しておくことで、いつでも使い回せるような準備を整えた。
+実際に自分で新規で作成したコンポーネントは自分のリポジトリで  
+カスタマイズして実装して残しておくことで、いつでも使い回せるような準備を整えた。
 
 ---
 
