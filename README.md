@@ -8,8 +8,7 @@
 | --- | --- |
 | 名前 | 木村一貴 |
 | 生息地 | 神奈川県 |
-| Twitter | [@k_kazukiiiiii](https://twitter.com/k_kazukiiiiii) |
-| Qiita | [@k_kazukiiiiii](https://qiita.com/k_kazukiiiiii) |
+| 最終学歴 | 立教大学 理学部 化学科 |
 
 # スキルセット
 
@@ -46,6 +45,8 @@
 
 ### SaaS | PaaS
 
+- Vercel
+- Heroku
 - GitHub
 - GitHub Actions
 
@@ -74,7 +75,7 @@
 
 ### 発揮したバリュー
 
-TODO
+現在進行中。
 
 ---
 
