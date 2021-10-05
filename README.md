@@ -48,6 +48,7 @@
 - Vercel
 - Heroku
 - GitHub
+- GitHub Pages
 - GitHub Actions
 
 ### その他
@@ -56,6 +57,7 @@
 - Prettier
 - Husky
 - lint-staged
+- Renovate
 - Docker
 - Docker Compose
 - nginx
