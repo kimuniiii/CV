@@ -87,10 +87,10 @@
 - フロントエンドの技術選定
 - GitHub Actions を用いた CI / CD ワークフローの作成
 - Docker を用いたフロントエンドの仮想コンテナ環境の作成
-- Husky・Prettier・ESLint・Prettierの導入
+- Husky・lint-staged・Prettier・ESLintの導入
 - Renovate を用いたパッケージの依存管理
-- 共通コンポーネントの新規実装
-- ページコンポーネントの新規実装
+- Atomic Design を用いた共通コンポーネントの新規実装
+- ストア設計 を用いたページコンポーネントの新規実装
 
 ### 発揮したバリュー
 
