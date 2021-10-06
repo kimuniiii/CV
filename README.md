@@ -34,30 +34,6 @@ Sierでの受託開発、自社開発企業での自社サービス開発のど�
 
 ---
 
-# スキルセット
-
-### 言語
-
-HTML5 | CSS3 | JavaScript | TypeScript | PHP | Ruby
-
-### フレームワーク・ライブラリ等
-
-jQuery | React | Next.js | Redux | Redux Toolkit | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | Moment | Jest | React Testing Library | Cypress
-
-### RDB | NoSQL
-
-MySQL | PostgreSQL
-
-### SaaS | PaaS
-
-Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions
-
-### その他
-
-ESLint | Prettier | Husky | lint-staged | Renovate | Docker | Docker Compose | nginx | Apache | AWS | GCP
-
----
-
 # 主な業務経歴
 
 ## プロジェクト概要
@@ -254,3 +230,27 @@ ECサイトの既存機能の追加・改修（2019年8月〜2020年6月）
 ### 発揮したバリュー
 
 Reactを用いたバグ回収業務がメイン業務だった。迅速なバグ対応を行うことで、プロダクトの品質向上に大きく貢献した。
+
+---
+
+# スキルセット
+
+### 言語
+
+HTML5 | CSS3 | JavaScript | TypeScript | PHP | Ruby
+
+### フレームワーク・ライブラリ等
+
+jQuery | React | Next.js | Redux | Redux Toolkit | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | Moment | Jest | React Testing Library | Cypress
+
+### RDB | NoSQL
+
+MySQL | PostgreSQL
+
+### SaaS | PaaS
+
+Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions
+
+### その他
+
+ESLint | Prettier | Husky | lint-staged | Renovate | Docker | Docker Compose | nginx | Apache | AWS | GCP
