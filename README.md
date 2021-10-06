@@ -6,14 +6,17 @@
 | 年齢 | 満26歳 |
 | 生息地 | 神奈川県 |
 | 最終学歴 | 立教大学 理学部 化学科 |
+| React実務経験 | 2年3ヶ月 |
 
 ---
 
 # 自己紹介
 
-私はSierでの受託開発、自社開発企業での自社サービス開発のどちらも経験して参りました。
+私は大学時代は理系だったので、大学時代からプログラミングに触れていました。
 
-また既存機能の追加・改修と新規開発のどちらも経験しているため、プロジェクトに応じてどちらでも柔軟に対応が可能です。
+社会人になってから本格的に`Webフロントエンジニア`としてキャリアを歩み、Sierでの受託開発、自社開発企業での自社サービス開発のどちらも経験して参りました。
+
+既存機能の追加・改修と新規開発のどちらも経験しているため、プロジェクトに応じてどちらでも柔軟に対応が可能です。
 
 技術的な得意分野は`WEBフロントエンド領域における新規開発`です。
 
@@ -34,58 +37,23 @@
 
 ### 言語
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- PHP
-- Ruby
+HTML5 | CSS3 | JavaScript | TypeScript | PHP | Ruby
 
 ### フレームワーク・ライブラリ等
 
-- jQuery
-- React
-- Redux
-- Redux Toolkit
-- Lit Element
-- Storybook
-- styled-components
-- emotion
-- TailwindCSS
-- Lodash
-- rfdc
-- date-fns
-- Moment
-- Jest
-- React Testing Library
-- Cypress
+jQuery | React | Redux | Redux Toolkit | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | Moment | Jest | React Testing Library | Cypress
 
 ### RDB | NoSQL
 
-- MySQL
-- PostgreSQL
+MySQL | PostgreSQL
 
 ### SaaS | PaaS
 
-- Vercel
-- Heroku
-- GitHub
-- GitHub Pages
-- GitHub Actions
+Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions
 
 ### その他
 
-- ESLint
-- Prettier
-- Husky
-- lint-staged
-- Renovate
-- Docker
-- Docker Compose
-- nginx
-- Apache
-- AWS
-- GCP
+ESLint | Prettier | Husky | lint-staged | Renovate | Docker | Docker Compose | nginx | Apache | AWS | GCP
 
 ---
 
