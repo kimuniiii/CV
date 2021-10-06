@@ -42,7 +42,7 @@ HTML5 | CSS3 | JavaScript | TypeScript | PHP | Ruby
 
 ### フレームワーク・ライブラリ等
 
-jQuery | React | Redux | Redux Toolkit | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | Moment | Jest | React Testing Library | Cypress
+jQuery | React | Next.js | Redux | Redux Toolkit | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | Moment | Jest | React Testing Library | Cypress
 
 ### RDB | NoSQL
 
