@@ -13,6 +13,7 @@
 | 生息地 | 東京都渋谷区 |
 | 最終学歴 | 立教大学 理学部 化学科 |
 | React実務経験 | 3年 |
+| Twitterアカウント | https://twitter.com/k_kazukiiiiii |
 | Zennアカウント | https://zenn.dev/k_kazukiiiiii |
 
 ---
