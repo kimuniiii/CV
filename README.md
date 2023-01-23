@@ -76,10 +76,10 @@ Sierでの受託開発、自社開発企業での自社サービス開発のど�
 - UIコンポーネントのテストを Jest + React Testing Library で実装
 - GitHub Actions を用いた CI / CD ワークフローの作成
 - 作品詳細画面の仕様確認 and UIコンポーネント設計 and API繋ぎ込み
-- 作品詳細画面のチームメンバーのレビュー
-- offset pagination 機能の新規実装
-- cursor pagination 機能の新規実装
-- 無限・仮想スクロールを共通で使用できるコンポーネントの実装
+- 作品詳細画面に関するコードの修正内容を実施したチームメンバーに対するレビュー
+- Apollo Client + GraphQL を用いた offset pagination 機能の新規実装
+- Apollo Client + GraphQL を用いた cursor pagination 機能の新規実装
+- 無限・仮想スクロールをチームメンバーが共通で使用できるコンポーネントの実装
 
 ### 発揮したバリュー
 
@@ -112,9 +112,9 @@ Sierでの受託開発、自社開発企業での自社サービス開発のど�
 - UIコンポーネントのテストを Jest + React Testing Library で実装
 - GitHub Actions を用いた CI / CD ワークフローの作成
 - 作品詳細画面の仕様確認 and UIコンポーネント設計 and API繋ぎ込み
-- 作品詳細画面のチームメンバーのレビュー
-- offset pagination 機能の新規実装
-- cursor pagination 機能の新規実装
+- 作品詳細画面に関するコードの修正内容を実施したチームメンバーに対するレビュー
+- Apollo Client + GraphQL を用いた offset pagination 機能の新規実装
+- Apollo Client + GraphQL を用いた cursor pagination 機能の新規実装
 - 無限・仮想スクロールを共通で使用できるコンポーネントの実装
 
 ### 発揮したバリュー
