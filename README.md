@@ -73,7 +73,7 @@ Sierでの受託開発、自社開発企業での自社サービス開発のど�
 
 ### 発揮したバリュー
 
-UIデザインシステムのライブラリ開発とUIデザインシステムを社内パッケージとして公開したものを取り込んで画面を作成していくという開発手順で基本的には実装を行っていきました。開発手法は「スクラム開発」を用いて毎週スプリントを回していました。スプリントプランニングで決めたポイント数が未達になったことはほとんどなく、むしろ常に予定のポイント数を上回るポイントを消化し続けました。「仕様が決まっていない」を言い訳にせずに「決まっていないなら仕様を把握している人を捕まえて仕様を訊く、もしくは決めにいく」というスタンスで毎日仕事に取り組んでいました。この仕事に取り組むスタンスと毎週のスクラムのポイント数が社内で高く評価されまして、ベンダー企業が大手企業ということもあり、当初の契約時点の単価よりも約20万円多い単価をいただけるようになりました。結果的に12月1日と期限を定めた納期のリリースに間に合う、という価値を発揮するために大きく貢献できました。
+以下の「サブスクリプション動画配信サービスの大規模新規開発」と同時並行で進めていったプロジェクトになります。
 
 ---
 
@@ -126,7 +126,7 @@ UIデザインシステムのライブラリ開発とUIデザインシステム�
 
 ## プロジェクト概要
 
-NoCode開発
+B to B 向けの管理画面開発
 
 ### プロジェクト期間
 
@@ -142,6 +142,7 @@ NoCode開発
 - React Hook Form
 - SWR
 - aspida
+- RESTAPI
 
 ### 発揮したバリュー
 
@@ -172,6 +173,7 @@ UIデザインシステムのライブラリ開発とUIデザインシステム�
 - React Hook Form
 - SWR
 - aspida
+- RESTAPI
 
 ### 担当業務（予定）
 
@@ -385,7 +387,7 @@ HTML5 | CSS3 | JavaScript | TypeScript | PHP | Ruby
 
 ### フレームワーク・ライブラリ等
 
-jQuery | React | Next.js | Redux | Redux Toolkit | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress
+jQuery | React | Next.js | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress
 
 ### RDB | NoSQL
 
