@@ -20,10 +20,13 @@
 
 # ポートフォリオ
 
+Storybook を GitHub Actions で GitHub Pages へ自動デプロイする  
+という機能要件を自分で設定して、その要件を満たすための実装を実現しました。
+
 - React + TypeScript を使用した共通コンポーネントを独自で実装する
 - developブランチにpushする度に GitHub Pages へ 自動デプロイ する
 
-[Storybook | デプロイ環境](https://kimuniiii.github.io/Personal-Development/?path=/story/atoms-button--basic)
+[Storybook | GitHubPages | デプロイ環境](https://kimuniiii.github.io/Personal-Development/?path=/story/atoms-button--basic)
 
 ---
 
