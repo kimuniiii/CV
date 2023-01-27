@@ -18,6 +18,15 @@
 
 ---
 
+# ポートフォリオ
+
+- React + TypeScript を使用した共通コンポーネントを独自で実装する
+- developブランチにpushする度に GitHub Pages へ 自動デプロイ する
+
+[Storybook | デプロイ環境](https://kimuniiii.github.io/Personal-Development/?path=/story/atoms-button--basic)
+
+---
+
 # 自己紹介
 
 私は大学時代は理系でしたので、大学時代からプログラミングを学んでいました。
