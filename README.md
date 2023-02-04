@@ -180,6 +180,7 @@ TODO（現在進行中）
 - Apollo Client + GraphQL を用いた offset pagination 機能の新規実装
 - Apollo Client + GraphQL を用いた cursor pagination 機能の新規実装
 - 無限・仮想スクロールを共通で使用できるコンポーネントの実装
+- Jest + React Testing Library を使用したコンポーネント単位の結合テストの実装
 
 ### 発揮したバリュー
 
@@ -219,6 +220,7 @@ UIデザインシステムのライブラリ開発とUIデザインシステム�
 - React で PDFのプレビュー画像を表示する機能の新規実装
 - 履歴書を新規作成するまでに必要な画面をすべて実装
 - 履歴書を編集するまでに必要な画面をすべて実装
+- Jest + React Testing Library を使用したコンポーネント単位の結合テストの実装
 
 ### 発揮したバリュー
 
