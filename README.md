@@ -162,6 +162,14 @@ TODO（現在進行中）
 - Next.js : 12.0.7
 - Apollo Client : 3.4.17
 - GraphQL : 15.5.1
+- Jest : 27.0.6
+- ts-jest : 27.0.4
+- testing-library/react : 12.0.0
+- testting-library/react-hooks : 7.0.2
+- testing-library/user-event : 14.4.3
+
+※1 testting-library/react-hooks は React 18 のプロジェクトの場合は不要になります  
+※2 詳しくは、[React 18 で Custom Hooks のテストを書くときの注意点](https://zenn.dev/k_kazukiiiiii/articles/9f48bdd20435d2) にまとめています
 
 ### 担当業務
 
@@ -197,6 +205,8 @@ UIデザインシステムのライブラリ開発とUIデザインシステム�
 - React Query : 3.39.2
 - aspida/react-query : 1.11.0
 - aspida/axios : 1.11.0
+- testing-library/react : 13.3.0
+- testing-library/user-event : 14.4.3
 
 ### 担当業務
 
