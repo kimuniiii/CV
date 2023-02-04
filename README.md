@@ -167,6 +167,7 @@ TODO（現在進行中）
 - testing-library/react : 12.0.0
 - testting-library/react-hooks : 7.0.2
 - testing-library/user-event : 14.4.3
+- playwright : 1.29.2
 
 ※1 testting-library/react-hooks は React 18 のプロジェクトの場合は不要になります  
 ※2 詳しくは、[React 18 で Custom Hooks のテストを書くときの注意点](https://zenn.dev/k_kazukiiiiii/articles/9f48bdd20435d2) にまとめています
@@ -181,6 +182,7 @@ TODO（現在進行中）
 - Apollo Client + GraphQL を用いた cursor pagination 機能の新規実装
 - 無限・仮想スクロールを共通で使用できるコンポーネントの実装
 - Jest + React Testing Library を使用したコンポーネント単位の結合テストの実装
+- PlayWright を使用して、自分が実装した作品詳細画面のE2Eテストの実装
 
 ### 発揮したバリュー
 
