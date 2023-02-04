@@ -514,7 +514,7 @@ HTML5 | CSS3 | JavaScript | TypeScript | PHP | Ruby
 
 ### フレームワーク・ライブラリ等
 
-jQuery | React | Next.js | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress
+jQuery | React | Next.js | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright
 
 ### RDB | NoSQL
 
