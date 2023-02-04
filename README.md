@@ -208,8 +208,13 @@ UIデザインシステムのライブラリ開発とUIデザインシステム�
 - React Query : 3.39.2
 - aspida/react-query : 1.11.0
 - aspida/axios : 1.11.0
+- Jest : 28.1.3
+- jest-environment-jsdom : 28.1.3
+- ts-jest : 28.0.7
 - testing-library/react : 13.3.0
 - testing-library/user-event : 14.4.3
+
+※ Jestのバージョン28でテストを実施する場合、jsdomがデフォルトではインストールされなくなったので、`jest-environment-jsdom`を別途installする必要が出てきたので追加した
 
 ### 担当業務
 
