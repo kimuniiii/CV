@@ -136,6 +136,9 @@ TODO（現在進行中）
 - testing-library/react : 13.3.0
 - testing-library/user-event : 14.4.3
 
+Jestのバージョン28でテストを実施する場合、jsdomがデフォルトではインストールされなくなった  
+なので、jest-environment-jsdomを別途installする必要が出てきたので追加した
+
 ### 担当業務
 
 - UIコンポーネントのテストを Jest + React Testing Library で実装
