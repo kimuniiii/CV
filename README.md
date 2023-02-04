@@ -129,6 +129,12 @@ TODO（現在進行中）
 - Next.js : 12.2.2
 - Apollo Client : 3.6.8
 - GraphQL : 15.5.1
+- Jest : 28.1.0
+- jest-environment-jsdom : 28.1.0
+- ts-jest : 28.0.2
+- testing-library/jest-dom : 5.16.4
+- testing-library/react : 13.3.0
+- testing-library/user-event : 14.4.3
 
 ### 担当業務
 
@@ -164,6 +170,7 @@ TODO（現在進行中）
 - GraphQL : 15.5.1
 - Jest : 27.0.6
 - ts-jest : 27.0.4
+- testing-library/jest-dom: 5.14.1
 - testing-library/react : 12.0.0
 - testting-library/react-hooks : 7.0.2
 - testing-library/user-event : 14.4.3
@@ -211,6 +218,7 @@ UIデザインシステムのライブラリ開発とUIデザインシステム�
 - Jest : 28.1.3
 - jest-environment-jsdom : 28.1.3
 - ts-jest : 28.0.7
+- testing-library/jest-dom: 5.16.5
 - testing-library/react : 13.3.0
 - testing-library/user-event : 14.4.3
 
