@@ -1,6 +1,6 @@
 # 最終更新日
 
-2023年2月4日（土）
+2023年2月19日（日）
 
 ---
 
@@ -12,7 +12,22 @@
 | 年齢 | 満27歳 |
 | いま住んでいる場所 | 東京都渋谷区神山町 |
 | 最終学歴 | 立教大学 理学部 化学科 |
-| React実務経験 | 3年 |
+
+---
+
+# スキルセット
+
+### フロントエンド :star: :star: :star: :star: :star:
+
+HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
+
+### バックエンド :star: :star: :star:
+
+Node.js | Express | PHP | Laravel | Ruby | Ruby on Rails | 
+
+### インフラ :star: :star: :star:
+
+MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | nginx | Apache | AWS | GCP | Auth0 | Hasura | Firebase | fastlane
 
 ---
 
@@ -486,7 +501,11 @@ WebComponents + Lit を用いたコンポーネント実装は初めて行った
 
 ### 発揮したバリュー
 
-管理画面の新規開発に途中から参画した。新機能の追加実装が主な担当業務だった。やるべきタスクと納期が明確に決まっている状況下で納期の遅延なく実装を完了させることで、プロダクトのリリースの時間削減に貢献した。
+管理画面の新規開発に途中から参画した。  
+新機能の追加実装が主な担当業務だった。
+
+やるべきタスクと納期が明確に決まっている状況下で  
+納期の遅延なく実装を完了させることで、プロダクトのリリースの時間削減に貢献した。
 
 ---
 
@@ -513,28 +532,5 @@ ECサイトの既存機能の追加・改修業務
 
 ### 発揮したバリュー
 
-Reactを用いたバグ回収業務がメイン業務だった。迅速なバグ対応を行うことで、プロダクトの品質向上に大きく貢献した。
-
----
-
-# スキルセット
-
-### 言語
-
-HTML5 | CSS3 | JavaScript | TypeScript | PHP | Ruby
-
-### フレームワーク・ライブラリ等
-
-jQuery | React | Next.js | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright
-
-### RDB | NoSQL
-
-MySQL | PostgreSQL
-
-### SaaS | PaaS
-
-Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions
-
-### その他
-
-ESLint | Prettier | Husky | lint-staged | Renovate | Docker | Docker Compose | nginx | Apache | AWS | GCP
+Reactを用いたバグ回収業務がメイン業務だった。  
+迅速なバグ対応を行うことで、プロダクトの品質向上に大きく貢献した。
