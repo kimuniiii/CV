@@ -19,13 +19,19 @@
 
 ### フロントエンド :star: :star: :star: :star: :star:
 
+環境構築からリリースまで1人ですべて対応可能
+
 HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
 
 ### バックエンド :star: :star: :star:
 
+小規模サービスなら1人で設計と実装が可能
+
 Node.js | Express | PHP | Laravel | Ruby | Ruby on Rails | 
 
 ### インフラ :star: :star: :star:
+
+小規模サービスなら1人で設計と実装が可能
 
 MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | nginx | Apache | AWS | GCP | Auth0 | Hasura | Firebase | fastlane
 
