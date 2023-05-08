@@ -27,7 +27,7 @@ HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js
 
 小規模サービスなら1人で設計と実装が可能
 
-Node.js | Express | PHP | Laravel | Ruby | Ruby on Rails | 
+Node.js | Express | Nest.js | Prisma | PHP | Laravel | Ruby | Ruby on Rails | 
 
 ### インフラ :star: :star: :star:
 
