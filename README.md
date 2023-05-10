@@ -107,6 +107,7 @@ React Native を使用したマッチングアプリのクロスプラットフ�
 
 ### 担当業務
 
+- アプリケーションの要件定義・基本設計
 - React Native iOS 開発環境の構築
 - React Native fastlane を使用して Testflight で内部テストが実施できる環境の構築
 - React Native fastlaen match を使用して iOS の証明書周りの情報を GitHub で管理する環境の構築
