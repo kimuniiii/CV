@@ -97,15 +97,13 @@ React Native を使用した「釣りアプリ」の保守・運用
 
 ## 使用言語・ライブラリ
 
-- React : 18.1.0
-- React Native : 0.70.2
-- TypeScript : 4.8.3
-- Apollo Client : 3.6.9
-- GraphQL : 16.6.0
-- react-native-config : 1.4.11
-- react-native-firebase/app : 16.4.6
-- react-native-firebase/auth : 16.4.6
-- react-native-firebase/messaging : 16.4.6
+- React : 17.0.2
+- React Native : 0.64.2
+- axios : ^0.18.0
+- react-native-config : ^1.4.5
+- react-native-firebase/app : 14.11.1
+- react-native-firebase/auth : 14.11.1
+- react-native-firebase/messaging : 14.11.1
 
 ## 担当業務
 
