@@ -1,6 +1,6 @@
 # 最終更新日
 
-2023年5月13日（土）
+2024年11月30日（土）
 
 ---
 
@@ -9,8 +9,8 @@
 | key | value |
 | --- | --- |
 | 名前 | 木村一貴 |
-| 年齢 | 満27歳 |
-| 居住地 | 東京都渋谷区神山町 |
+| 年齢 | 満29歳 |
+| 居住地 | 東京都渋谷区 |
 | 最寄駅 | 渋谷駅 |
 | 最終学歴 | 立教大学 理学部 化学科 |
 | Zennアカウント | https://zenn.dev/k_kazukiiiiii |
@@ -23,7 +23,7 @@
 
 環境構築からリリースまで1人ですべて対応可能
 
-HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
+HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js Pages Router | Next.js App Router | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
 
 ### バックエンド :star: :star: :star:
 
@@ -35,7 +35,7 @@ Node.js | Express | Nest.js | Prisma | PHP | Laravel | Ruby | Ruby on Rails |
 
 小規模サービスなら1人で設計と実装が可能
 
-MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | nginx | Apache | AWS | GCP | Auth0 | Hasura | Firebase | fastlane
+MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | Sentry | nginx | Apache | AWS | GCP | Auth0 | Hasura | Firebase | fastlane
 
 ---
 
@@ -89,13 +89,13 @@ WEBフロントエンド領域の業務範囲は一通り網羅しています�
 
 ## プロジェクト概要
 
-React Native を使用したマッチングアプリのクロスプラットフォーム（iOS / Android）開発
+React Native を使用した「釣りアプリ」の保守・運用
 
-### プロジェクト期間
+## プロジェクト期間
 
-2022年10月 〜 現在
+2023年5月 〜 2023年12月
 
-### 使用言語・ライブラリ
+## 使用言語・ライブラリ
 
 - React : 18.1.0
 - React Native : 0.70.2
@@ -107,7 +107,41 @@ React Native を使用したマッチングアプリのクロスプラットフ�
 - react-native-firebase/auth : 16.4.6
 - react-native-firebase/messaging : 16.4.6
 
-### 担当業務
+## 担当業務
+
+- React Native バージョンアップ対応（0.64.2 から 0.65.3 まで）
+- React Native バージョンアップ対応（0.65.3 から 0.67.5 まで）
+- react-native-maps バージョンアップ対応（^0.21.0 から ^1.8.0 まで）
+- アプリで発生した不具合の改善業務
+- Class Component を Function Component に置き換える
+
+### 発揮したバリュー
+
+TODO
+
+---
+
+## プロジェクト概要
+
+React Native を使用したマッチングアプリのクロスプラットフォーム（iOS / Android）開発
+
+## プロジェクト期間
+
+2022年10月 〜 現在
+
+## 使用言語・ライブラリ
+
+- React : 18.1.0
+- React Native : 0.70.2
+- TypeScript : 4.8.3
+- Apollo Client : 3.6.9
+- GraphQL : 16.6.0
+- react-native-config : 1.4.11
+- react-native-firebase/app : 16.4.6
+- react-native-firebase/auth : 16.4.6
+- react-native-firebase/messaging : 16.4.6
+
+## 担当業務
 
 - アプリケーションの要件定義・基本設計
 - React Native iOS 開発環境の構築
@@ -116,10 +150,14 @@ React Native を使用したマッチングアプリのクロスプラットフ�
 - React Native Android 開発環境の構築
 - React Native fastlane を使用して Google Play Store で内部テストが実施できる環境の構築
 - Firebase を使用して Appleでサインイン Googleでサインイン 電話番号でサインイン 機能の新規実装
+- React Native のライブラリメジャーバージョンアップ対応（0.70.2 → 0.72.5）
 
-### 発揮したバリュー
+## 発揮したバリュー
 
-TODO（現在進行中）
+これは。自分の会社で自社開発で作ったサービスです。  
+要件定義から実装までを All In One で対応を行いました。  
+React Native のバージョンも最新バージョンに追従する様に対応を行い、  
+堅牢なアプリケーションをユーザーに継続的に提供することに大きく貢献した。
 
 ---
 
