@@ -61,8 +61,6 @@ MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | Git
 
 # 自己紹介
 
-私は大学時代は理系でしたので、大学時代からプログラミングを学んでいました。
-
 社会人になってから本格的に`Web系のフロントエンジニア`としてキャリアを歩み、  
 Sierでの受託開発、自社開発企業での自社サービス開発のどちらも経験して参りました。
 
