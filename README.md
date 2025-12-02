@@ -23,7 +23,7 @@
 
 環境構築からリリースまで1人ですべて対応可能
 
-HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js Pages Router | Next.js App Router | Radix UI | shadcn/ui | zustand | immer | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Orval | Tailwind CSS | styled-components | emotion | Lodash | rfdc | date-fns | dayjs | Moment | Jest | Vitest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate | Web Components | Lit Element | Storybook
+HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js Pages Router | Next.js App Router | Radix UI | shadcn/ui | zustand | immer | Recoil | Redux | Redux Toolkit | React Hook Form | zod | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Orval | Tailwind CSS | styled-components | emotion | Lodash | rfdc | date-fns | dayjs | Moment | Jest | Vitest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate | Web Components | Lit Element | Storybook
 
 ### バックエンド :star: :star: :star: :star:
 
