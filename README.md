@@ -23,19 +23,19 @@
 
 環境構築からリリースまで1人ですべて対応可能
 
-HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js Pages Router | Next.js App Router | shadcn/ui | Tailwind CSS | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
+HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js Pages Router | Next.js App Router | Radix UI | shadcn/ui | Tailwind CSS | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Orval | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
 
-### バックエンド :star: :star: :star:
+### バックエンド :star: :star: :star: :star:
 
 小規模サービスなら1人で設計と実装が可能
 
-Node.js | Express | Nest.js | Prisma | PHP | Laravel | Ruby | Ruby on Rails | 
+Node.js | Express | Nest.js | Prisma | Drizzle | PHP | Laravel | Ruby | Ruby on Rails | Python | Django REST Framework
 
 ### インフラ :star: :star: :star:
 
 小規模サービスなら1人で設計と実装が可能
 
-MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | Sentry | nginx | Apache | Amazon Web Service | AWS Amplify | Google Cloud | Auth0 | Hasura | Firebase | fastlane
+MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | Sentry | nginx | Apache | Amazon Web Service | AWS Amplify | Google Cloud | Auth0 | Hasura | Firebase | fastlane | Supabase | Fly.io | microCMS 
 
 ---
 
