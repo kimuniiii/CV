@@ -23,7 +23,7 @@
 
 環境構築からリリースまで1人ですべて対応可能
 
-HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js Pages Router | Next.js App Router | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
+HTML5 | CSS3 | JavaScript | jQuery | TypeScript | React | React Native | Next.js Pages Router | Next.js App Router | shadcn/ui | Tailwind CSS | Recoil | Redux | Redux Toolkit | Apollo Client | GraphQL | React Query | SWR | Swagger | aspida | Web Components | Lit Element | Storybook | styled-components | emotion | TailwindCSS | Lodash | rfdc | date-fns | dayjs | Moment | Jest | React Testing Library | Cypress | PlayWright | ESLint | Prettier | Husky | lint-staged | Renovate
 
 ### バックエンド :star: :star: :star:
 
@@ -69,8 +69,9 @@ SIerでの受託開発と、自社開発企業での自社サービス開発の�
 
 技術的な得意分野は Webフロントエンド領域における新規開発 です。
 
-React・TypeScript・Next.js を用いた新規開発をメインに担当してきたため、  
-Webフロントエンド領域の業務を一通り経験しています。
+React・TypeScript・Next.js を用いた  
+新規プロダクト開発をメインに担当してきたため、  
+Webフロントエンド領域の業務は一通り経験しています。
 
 実績を評価していただき、  
 社内勉強会の登壇を主催した経験もあります。
@@ -91,7 +92,7 @@ Next.js App Router を使用した 釣船予約サイト の新規開発
 
 ## プロジェクト期間
 
-2024年1月 〜 現在
+2024年1月 〜 2025年12月31日まで
 
 ## 使用言語・ライブラリ
 
@@ -121,6 +122,7 @@ Next.js App Router を使用した 釣船予約サイト の新規開発
   - マーケティング測定ツールの導入（GTM, Criteo, Repro）
   - CVRを向上させるための最適な予約導線の設計検討・設計に沿った大規模改修
   - GMVを向上させるためのクーポン機能の実装
+  - Next.js の マイナーバージョンアップデート対応（v14.0.0 → v14.2.23）
   - 本プロジェクトに関するオンボーディング資料の作成
 
 ### 発揮したバリュー
