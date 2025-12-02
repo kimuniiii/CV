@@ -35,7 +35,7 @@ Node.js | Express | Nest.js | Prisma | Drizzle | PHP | Laravel | Ruby | Ruby on 
 
 小規模サービスなら1人で設計と実装が可能
 
-MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | Sentry | nginx | Apache | Amazon Web Service | AWS Amplify | Google Cloud | Auth0 | Hasura | Firebase | fastlane | Supabase | Fly.io | microCMS 
+MySQL | PostgreSQL | PlanetScale | Vercel | Heroku | GitHub | GitHub Pages | GitHub Packages | GitHub Actions | Docker | Docker Compose | Sentry | Datadog | nginx | Apache | AWS ECS | AWS Amplify | Google Cloud | Auth0 | Hasura | Firebase | fastlane | Supabase | Fly.io | microCMS 
 
 ---
 
